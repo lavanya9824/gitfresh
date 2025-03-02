@@ -58,3 +58,38 @@ git log
 git config --global -list
 git config --global --list
 clear
+git push
+branch
+git branch
+git branch newbranch1
+git branch
+ls
+git status
+git clone https://github.com/lavanya9824/gitfresh.git
+clear
+git push 
+git pull
+git push
+ls
+clear
+git fetch
+ls
+git push
+git pull origin main
+git add .
+git commit -m "Resolved merge conflicts"
+git push origin main
+clear
+git fetch origin
+ls
+git rebase origin/main
+git add <file>
+git rebase --continue
+git add file.txt,
+git rebase --continue
+y
+git push origin main
+ls
+clear
+ls
+git log
